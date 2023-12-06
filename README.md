@@ -53,6 +53,10 @@ python main.py
 ```
 -->
 
+## Dataset
+
+The dataset employed in the experiments reported in the paper is available [at this link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EbylSagC91ZAnIHNYuTVYFcB9X1qLQ8P62fAS20Ws83jdA?e=W5m9vS) (1.42 GB zip file).
+
 <!--
 ### Citation   
 ```
